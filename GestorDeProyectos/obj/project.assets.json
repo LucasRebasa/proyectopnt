@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\GestorDeProyectos\\GestorDeProyectos\\GestorDeProyectos.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\proyectopnt\\GestorDeProyectos\\GestorDeProyectos.csproj",
       "projectName": "GestorDeProyectos",
-      "projectPath": "C:\\Users\\lucas\\source\\repos\\GestorDeProyectos\\GestorDeProyectos\\GestorDeProyectos.csproj",
+      "projectPath": "C:\\Users\\lucas\\source\\repos\\proyectopnt\\GestorDeProyectos\\GestorDeProyectos.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\source\\repos\\GestorDeProyectos\\GestorDeProyectos\\obj\\",
+      "outputPath": "C:\\Users\\lucas\\source\\repos\\proyectopnt\\GestorDeProyectos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
