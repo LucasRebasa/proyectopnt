@@ -1,6 +1,6 @@
 # proyectopnt
-Link a la documentacion: https://docs.google.com/document/d/1Jvap3NN5GUnDBrNJ1QdeLWXfskNGZZ00ySj4ykDfq9I/edit
-Gestor de proyectos
+Link a la documentacion: https://docs.google.com/document/d/1Jvap3NN5GUnDBrNJ1QdeLWXfskNGZZ00ySj4ykDfq9I/edit <br>
+Gestor de proyectos<br>
 Aplicación tipo Trello que permite crear tareas a realizar, filtrarlas dependiendo su estado (no iniciada, en proceso, finalizada, etc). Se pueden subir archivos, imágenes y texto separados en distintas tarjetas. Los usuarios tienen sesiones y pueden invitar a otros a participar en su proyecto. Se almacenan los datos y estadísticas de cada usuario (los proyectos en los que participo y en los que participa, la cantidad, etc)
 
 GitHub: https://github.com/LucasRebasa/proyectopnt
